@@ -8,6 +8,7 @@
 - Pandas
 - Matplotlib
 - Seaborn
+- Sklearn
 - Jupyter Notebook
 
 ### Описание данных
